@@ -6,7 +6,6 @@ body {
 }
 
 
-
 body {
    background-image: url('../images/tilingWP.jpg');
    background-repeat: no-repeat;
@@ -15,45 +14,48 @@ body {
    flex-direction: column;
 }
 
-* {
-   margin: 0;
-   padding: 8px;
-   box-sizing: border-box;
-   font-family: 'Lora', serif;
-
-}
-
-.fa.fa-github {
+.fa {
    color: Azure;
    font-size: 50px;
    position: relative;
    top: 10px;
    left: 10px;
-
+   padding: 10px;
 }
 
-.fa-brands.fa-linkedin {
-   font-size: 50px;
+.fa.fa-github {
+   color: Azure;
+   font-size: 30px;
    position: relative;
    top: 10px;
    left: 10px;
 
 }
 
-.center-div {
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   height: 50vh;
+
+.fa.fa-linkedin {
+   color: Azure;
+   font-size: 30px;
+   position: relative;
+   top: 10px;
+   left:10px;
+
 }
 
-.bottom-div {
-   position: absolute;
-   bottom: 0;
-   margin-top: auto;
-   display: flex-end;
+.flex-container {
+   display: flex;
+   flex-direction: column;
    justify-content: center;
-   align-items: center;   height: 25vh;
+   align-items: center;
+   height: 100vh;
+}
+
+.flex-item {
+   text-align: center;
+   color: Azure;
+   font-size: 30px;
+   position: relative;
+   top: 10px;
 }
 
 .name-header {
