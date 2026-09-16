@@ -1,9 +1,65 @@
-.link {
-   color:rgb(255, 126, 126);
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+html,
+body {
+   min-height: 100%;
+}
+
+
+
+body {
+   background-image: url('../images/tilingWP.jpg');
+   background-repeat: no-repeat;
+   background-position: center;   
+   display: flex;
+   flex-direction: column;
+}
+
+* {
+   margin: 0;
+   padding: 8px;
+   box-sizing: border-box;
+   font-family: 'Lora', serif;
+
+}
+
+.fa.fa-github {
+   color: Azure;
+   font-size: 50px;
+   position: relative;
+   top: 10px;
+   left: 10px;
+
+}
+
+.fa-brands.fa-linkedin {
+   font-size: 50px;
+   position: relative;
+   top: 10px;
+   left: 10px;
+
+}
+
+.center-div {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 50vh;
+}
+
+.bottom-div {
+   position: absolute;
+   bottom: 0;
+   margin-top: auto;
+   display: flex-end;
+   justify-content: center;
+   align-items: center;   height: 25vh;
 }
 
 .name-header {
-   color:red;
-   font-size: 50px;
+   color: Azure;
+   font-size: 115px;
+   position: relative;
+
    
 }
