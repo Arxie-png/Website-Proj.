@@ -1,15 +1,15 @@
 // Edit this object to feature a different GitHub project.
 const featuredProject = {
-  title: "Ad Request Watcher",
-  language: "JavaScript",
+  title: "home-page",
+  language: "JavaScript, html, css",
   description:
-    "A privacy-first Chrome Manifest V3 extension that watches for ad-server requests and helps users understand activity from the pages they visit. It keeps local records, identifies known and possible ad servers, tracks cookie changes, and supports exporting Adblock-compatible filters.",
+    "Show fitness information from a Fitbit Air on a home-screen-style page in the browser.. It keeps local records, identifies known and possible ad servers, tracks cookie changes, and supports exporting Adblock-compatible filters.",
   highlights: [
-    "Uses webRequest to observe and classify network activity.",
-    "Keeps captured activity local instead of transmitting it elsewhere.",
-    "Includes charts, custom domain lists, and recent activity views.",
+    "Uses the google health api to get health data.",
+    "Acts as a homepage that has access to shortcuts.",
+    "Configurable background and styles.",
   ],
-  url: "https://github.com/Arxie-png/tracker-tracker",
+  url: "https://github.com/Arxie-png/home-page",
 };
 
 const projectTitle = document.querySelector("#project-title");
