@@ -424,30 +424,30 @@ strong {
  }
 
  .resume-section {
-   padding: 0.28rem 0;
+   padding: 0.2rem 0;
  }
 
  .resume-section h2 {
-   margin-bottom: 0.25rem;
-   font-size: 0.94rem;
+   margin-bottom: 0.2rem;
+   font-size: 0.88rem;
  }
 
  .resume-section p,
  .resume-entry li {
-   font-size: 0.82rem;
-   line-height: 1.25;
+   font-size: 0.76rem;
+   line-height: 1.15;
  }
 
  .resume-entry ul {
-   margin-top: 0.2rem;
+   margin-top: 0.15rem;
  }
 
  .experience-entry {
-   margin-top: 0.5rem;
+   margin-top: 0.38rem;
  }
 
  .resume-entry h3 {
-   font-size: 0.9rem;
+   font-size: 0.84rem;
  }
 
  .eyebrow,

@@ -1,6 +1,6 @@
 # Simon Morris
 
-Computer Science Student and Aspiring Software Engineer
+Computer Science Student | Aspiring Software Engineer
 
 Email: morris.n.simon@gmail.com  
 Phone: 901-216-2929
@@ -35,16 +35,24 @@ Current coursework: Data Structures, Computer Organization
 - Designed and assembled a breadboard circuit for an interactive light sculpture.
 - Programmed an Arduino in C++ to vary light-flicker speed based on distance-sensor readings from a nearby object or hand.
 
-**AI-Assisted Personal Portfolio | HTML, CSS**
+**Personal Portfolio Website | HTML, CSS, AI-Assisted Development**
 
-- Customized and maintain a personal website with profile and resume pages, using AI coding assistance.
-- Review and test AI-assisted updates; have foundational knowledge of HTML and CSS.
+- Maintain a personal website with profile and resume pages using HTML and CSS.
+- Review and test AI-assisted code updates while developing foundational knowledge of web development.
+
+**Browser Homepage Data Dashboard | JavaScript, HTML, CSS, Google Health API, Google Cloud Platform**
+
+- Developed a browser homepage that displays weather and wearable tracker data in an easy-to-read format.
+- Used the Google Health API and Google Cloud Platform hosting to access collected data from anywhere.
+- Used AI assistance while working with JavaScript to communicate with the Google Health API, parse data, and present it clearly.
+- Built foundational knowledge of the JavaScript code and the data flow between the API and the homepage.
 
 ## Skills
 
 **Programming:** C++  
-**Foundational:** HTML, CSS  
-**Development tools:** Git, VS Code, Copilot AI  
+**Web technologies:** HTML, CSS, JavaScript  
+**APIs and cloud:** Google Health API, Google Cloud Platform  
+**Development tools:** Git, VS Code, GitHub Copilot  
 **Development environment:** Linux  
 **Professional:** Time management, multitasking, customer service, problem solving, working under pressure
 
