@@ -3,11 +3,11 @@ const featuredProject = {
   title: "home-page",
   language: "JavaScript, html, css",
   description:
-    "Show fitness information from a Fitbit Air on a home-screen-style page in the browser.. It keeps local records, identifies known and possible ad servers, tracks cookie changes, and supports exporting Adblock-compatible filters.",
+    "A home-screen-style web page that displays fitness information from a Fitbit Air and provides quick access to useful shortcuts.",
   highlights: [
-    "Uses the google health api to get health data.",
-    "Acts as a homepage that has access to shortcuts.",
-    "Configurable background and styles.",
+    "Uses the Google Health API to retrieve fitness data.",
+    "Provides a customizable browser homepage with shortcuts.",
+    "Supports configurable backgrounds and styles.",
   ],
   url: "https://github.com/Arxie-png/home-page",
 };
